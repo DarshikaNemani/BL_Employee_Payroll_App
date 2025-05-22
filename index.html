@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Employee Payroll</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="text/css" rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <table id="employeeTable">
+        <h2>Employee List</h2>
+
+        <div class="search-filter">
+            <input type="text" id="searchByName" placeholder="Search by name">
+            <select id="filterByDepartment">
+                <option value="">All Departments</option>
+                <option value="HR">HR</option>
+                <option value="Devops">Devops</option>
+                <option value="Angular">Angular</option>
+                <option value="Administrative">Administrative</option>
+            </select>
+        </div>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Full Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Gender</th>
+                <th>Department</th>
+                <th>Salary</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be populated here -->
+        </tbody>
+    </table>
+    <br><br>
+    <a href="addEmp.html" class="addEmployee">Add Employee</a>
+
+</body>
+
+</html>

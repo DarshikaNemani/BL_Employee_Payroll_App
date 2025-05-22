@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Employee Form</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="text/css" rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <section>
+        <a href="index.html"> Back to Home Page</a>
+        <div class="form-group">
+            <form id="employeeForm">
+                <h1>Employee Form</h1>
+                <label for="photo">Enter Employee ID:</label>
+                <input type="text" id="EmpID" name="EmpID" placeholder="Eg. 1" required>
+                <label for="fname">Full Name:</label>
+                <input type="text" id="fname" name="fname" placeholder="Eg. John Doe" required>
+                <label for="mail">Enter your email id:</label>
+                <input type="email" id="mail" name="mail" placeholder="Eg. john.doe@mail.com" required>
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" placeholder="Eg. +91XXXXXXXXXX" pattern="\+91\d{5}\d{5}"
+                    required>
+                <label for="gender">Select Gender:</label>
+                <div class="gender-group">
+                    <label><input type="radio" name="gender" value="Male" required>Male</label>
+                    <label><input type="radio" name="gender" value="Female" required>Female</label>
+                    <label><input type="radio" name="gender" value="Other" required>Other</label>
+                </div>
+                <label for="department">Select Dapertment:</label>
+                <div class="department-group">
+                    <select name="department" id="department" required>
+                        <option hidden>Select</option>
+                        <option value="HR">HR</option>
+                        <option value="Devops">Devops</option>
+                        <option value="Angular">Angular</option>
+                        <option value="Administrative">Administrative</option>
+                    </select>
+                </div>
+                <label for="salary">Enter salary(INR):</label>
+                <input type="text" name="salary" id="salary" placeholder="Eg. XX,XX,XXX" required>
+                <div class="button-group">
+                    <button type="submit" id="save">Save</button>
+                    <button type="reset" id="reset">Reset</button>
+                </div>
+            </form>
+        </div>
+    </section>
+</body>
+
+</html>

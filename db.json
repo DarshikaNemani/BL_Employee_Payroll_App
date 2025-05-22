@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Darshika Nemani",
+      "email": "darshika.nemani@gmail.com",
+      "phone": "+917226951659",
+      "gender": "Female",
+      "department": "Devops",
+      "salary": "55,000"
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "email": "pra@gmail.com",
+      "phone": "+917226951659",
+      "gender": "Male",
+      "department": "Devops",
+      "salary": "55,000"
+    },
+    {
+      "id": "3",
+      "name": "Darshika Nemani",
+      "email": "darshika.nemani@gmail.com",
+      "phone": "+917226951658",
+      "gender": "Female",
+      "department": "Administrative",
+      "salary": "55,000"
+    }
+  ]
+}
