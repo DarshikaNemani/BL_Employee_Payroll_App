@@ -29,17 +29,15 @@ A simple web application to manage employee payroll details, built using HTML5, 
 
 ## 📂 Folder Structure
 
-```
 
 employee-payroll-app/
-│
 ├── index.html           # Home page to display employee records
 ├── addEmp.html          # Form page to add or edit employee
 ├── styles.css           # Custom styling
 ├── script.js            # Logic for displaying, searching, sorting, form validation and submission
 └── db.json              # JSON Server database file
 
-````
+
 
 ---
 
