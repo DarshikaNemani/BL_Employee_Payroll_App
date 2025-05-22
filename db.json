@@ -17,6 +17,15 @@
       "gender": "Male",
       "department": "Devops",
       "salary": "55,000"
+    },
+    {
+      "id": "3",
+      "name": "Darshika Nemani",
+      "email": "darshika.nemani@gmail.com",
+      "phone": "+917226951658",
+      "gender": "Female",
+      "department": "Administrative",
+      "salary": "55,000"
     }
   ]
 }
