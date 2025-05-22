@@ -1,0 +1,13 @@
+{
+    "employees": [
+        {
+            "id": "1",
+            "name": "Darshika Nemani",
+            "email": "darshika.nemani@gmail.com",
+            "phone": "+917226951659",
+            "gender": "Female",
+            "department": "Devops",
+            "salary": "55,000"
+        }
+    ]
+}
