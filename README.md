@@ -40,14 +40,14 @@ employee-payroll-app/
 
 
 ---
-
+```
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/employee-payroll-app.git
 cd employee-payroll-app
-````
+```
 
 ### 2. Install JSON Server (if not already)
 
