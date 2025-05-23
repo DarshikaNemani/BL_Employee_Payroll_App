@@ -89,7 +89,7 @@ Just open `index.html` in any browser (VSCode + Live Server recommended).
 ---
 
 ##  Author
-
+```
 Darshika Nemani
 ---
 This project is licensed under the MIT License - feel free to use and modify!
