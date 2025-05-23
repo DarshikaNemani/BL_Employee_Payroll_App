@@ -1,12 +1,12 @@
 
 ```markdown
-# 🧾 Employee Payroll App
+# Employee Payroll App
 
 A simple web application to manage employee payroll details, built using HTML5, CSS3, JavaScript (ES9+), jQuery, and JSON Server for backend simulation. It allows users to **add, view, edit, and delete** employee records.
 
 ---
 
-## ✨ Features
+## Features
 
 - Add employee details through a form.
 - View all employee records in a table format.
@@ -19,7 +19,7 @@ A simple web application to manage employee payroll details, built using HTML5, 
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES9+), jQuery
 - **Backend**: JSON Server (mock API)
@@ -27,7 +27,7 @@ A simple web application to manage employee payroll details, built using HTML5, 
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 
 employee-payroll-app/
@@ -41,7 +41,7 @@ employee-payroll-app/
 
 ---
 ```
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -69,7 +69,7 @@ Just open `index.html` in any browser (VSCode + Live Server recommended).
 
 ---
 
-## 📋 Sample Data Format (in `db.json`)
+## Sample Data Format (in `db.json`)
 
 ```json
 {
@@ -86,28 +86,12 @@ Just open `index.html` in any browser (VSCode + Live Server recommended).
   ]
 }
 ```
-
 ---
 
-## ✅ To-Do / Future Enhancements
+##  Author
 
-* Add pagination
-* Export data as CSV or PDF
-* Dark mode toggle
-* Better form UX with animations
-
+Darshika Nemani
 ---
-
-## 🙌 Author
-
-Made with ❤️ by Darshika Nemani
-*Student, Final Year BTech CSE*
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
-
----
-
-## 📜 License
-
 This project is licensed under the MIT License - feel free to use and modify!
 
 ```
