@@ -88,6 +88,11 @@ Just open `index.html` in any browser (VSCode + Live Server recommended).
 ```
 ---
 
+
+![image](https://github.com/user-attachments/assets/689bdf20-f5cb-4fa7-9fc6-eedfd81d8512)
+![image](https://github.com/user-attachments/assets/5e74b920-140a-4c20-8639-3c1aedc08641)
+![image](https://github.com/user-attachments/assets/1a158b7f-0cda-4a88-ad1e-c80ce4290353)
+
 ##  Author
 ```
 Darshika Nemani
